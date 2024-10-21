@@ -23,5 +23,5 @@ The application will be available at http://localhost:3000.
 
 Next.js and Tailwind CSS
 
-## 
-
+## Hosted Live project link(URL)
+https://imagefeeds.netlify.app
